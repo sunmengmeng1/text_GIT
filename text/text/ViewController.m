@@ -19,12 +19,14 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"NO。1");
+    NSLog(@"在第一分支开发");
     NSLog(@"在第二分支开发");
     NSLog(@"分支2 第二次修改");
     
 }
 
 -(void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event {
+
 
 }
 

@@ -16,6 +16,7 @@
 		18C7E67F1E2B5F4C00F41532 /* textTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 18C7E67E1E2B5F4C00F41532 /* textTests.m */; };
 		18C7E68A1E2B5F4C00F41532 /* textUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 18C7E6891E2B5F4C00F41532 /* textUITests.m */; };
 		18C7E6991E2B6A2400F41532 /* obj1.m in Sources */ = {isa = PBXBuildFile; fileRef = 18C7E6981E2B6A2400F41532 /* obj1.m */; };
+		18C7E69C1E2B6B6100F41532 /* sum.m in Sources */ = {isa = PBXBuildFile; fileRef = 18C7E69B1E2B6B6100F41532 /* sum.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,8 @@
 		18C7E68B1E2B5F4C00F41532 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		18C7E6971E2B6A2400F41532 /* obj1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = obj1.h; sourceTree = "<group>"; };
 		18C7E6981E2B6A2400F41532 /* obj1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = obj1.m; sourceTree = "<group>"; };
+		18C7E69A1E2B6B6100F41532 /* sum.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = sum.h; sourceTree = "<group>"; };
+		18C7E69B1E2B6B6100F41532 /* sum.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = sum.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +117,8 @@
 				18C7E6701E2B5F4C00F41532 /* Assets.xcassets */,
 				18C7E6721E2B5F4C00F41532 /* LaunchScreen.storyboard */,
 				18C7E6751E2B5F4C00F41532 /* Info.plist */,
+				18C7E69A1E2B6B6100F41532 /* sum.h */,
+				18C7E69B1E2B6B6100F41532 /* sum.m */,
 				18C7E6641E2B5F4C00F41532 /* Supporting Files */,
 			);
 			path = text;
@@ -280,6 +285,7 @@
 			files = (
 				18C7E66C1E2B5F4C00F41532 /* ViewController.m in Sources */,
 				18C7E6991E2B6A2400F41532 /* obj1.m in Sources */,
+				18C7E69C1E2B6B6100F41532 /* sum.m in Sources */,
 				18C7E6691E2B5F4C00F41532 /* AppDelegate.m in Sources */,
 				18C7E6661E2B5F4C00F41532 /* main.m in Sources */,
 			);
